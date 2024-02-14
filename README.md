@@ -1,7 +1,7 @@
-Daniel Costa Góis. 20y. 🌠
-=> Studying front-end.
-=> Computer Science | 4º Semester.
-=> English and Portuguese. Intermediate Spanish.
+Daniel Costa Góis. 20y. 🌠 <br>
+=> Studying front-end. <br>
+=> Computer Science | 4º Semester. <br> 
+=> English and Portuguese. Intermediate Spanish. <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniboywhy&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display = inline_block"><br>
