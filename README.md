@@ -1,6 +1,6 @@
 Daniel Costa Góis. 20y. 🌠 <br><br>
 => Studying front-end. <br>
-=> Computer Science | 4º Semester. <br> 
+=> Computer Science | 5º Semester. <br> 
 => English and Portuguese. Intermediate Spanish. <br>
 
 <div>
