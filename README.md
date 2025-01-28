@@ -1,6 +1,6 @@
-Daniel Costa Góis. 20y. 🌠 <br><br>
-=> Studying front-end. <br>
-=> Computer Science | 5º Semester. <br> 
+Daniel Costa Góis. 21y.<br><br>
+=> Studying web development. <br>
+=> Computer Science | 6º Semester. <br> 
 => English and Portuguese. Intermediate Spanish. <br>
 
 <div>
